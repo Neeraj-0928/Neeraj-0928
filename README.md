@@ -1,5 +1,5 @@
-**Neeraj S**# 
-💫 About Me:
+**Neeraj S**
+# 💫 About Me:
 🔭 **I’m currently working on**<br>AI-based Projects<br><br>👯 **I’m looking to collaborate on**<br>Projects related to AI, Computer Vision, Smart Agriculture, and IoT-based real-world solutions<br><br>🤝 **I’m looking for help with**<br>Optimizing real-time processing on edge devices and improving model accuracy for multimodal data<br><br>🌱 **I’m currently learning**<br>Deep Learning (CNN, 1D & 2D), Edge AI deployment, MediaPipe, and Embedded Systems (Raspberry Pi, ESP32)<br><br>💬 **Ask me about**<br>AI projects, Smart Inventory Systems, Computer Vision, Arduino/ESP32, and real-time edge-based applications<br><br>⚡ **Fun fact**<br>I love building practical AI solutions that can actually solve real-world problems instead of just theoretical models 🚀<br>
 
 

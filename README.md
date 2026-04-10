@@ -38,15 +38,18 @@ I build AI projects that solve real-world problems 🚀
 ---
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-0928&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Neeraj-0928&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-0928&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Neeraj-0928&show_icons=true&theme=tokyonight" height="150"/>
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Neeraj-0928&theme=tokyonight" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj-0928&layout=compact&theme=tokyonight" height="150"/>
+</div>
 ---
 
 # 💻 Tech Stack:
